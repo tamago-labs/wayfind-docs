@@ -6,15 +6,7 @@ Wayfind is an AI Agent Infrastructure platform that equips [Grok Bot](https://x.
 
 Instead of building agent capabilities from scratch, you can import a Wayfind template and have your bot ready to manage tokenized stocks, process USDC payments, or run Bitcoin finance operations - all autonomously with your approval.
 
-## Quick Links
-
-| Resource | Link |
-|----------|------|
-| Video Demo (5 mins.) | [https://www.youtube.com/watch?v=NG1Jbp9PFlo](https://www.youtube.com/watch?v=NG1Jbp9PFlo) |
-| Twitter / X | [https://x.com/WayfindZZZ](https://x.com/WayfindZZZ) |
-| Wayfind Platform | [https://wayfind.click/](https://wayfind.click/) |
-
-## Three Ready-to-Use Templates
+## Ready-to-Use Templates
 
 | Template | Use Case | Networks | Status |
 |----------|----------|----------|--------|
@@ -26,13 +18,16 @@ Instead of building agent capabilities from scratch, you can import a Wayfind te
 
 - **One-Click Import** - Import templates directly into Grok Bot with all skills and tools pre-configured
 - **Agentic Wallets** - Each bot gets its own encrypted wallet on its dedicated computer
-- **Multi-Agent Coordination** - Bots with different roles (CFO, HR, Research, Marketing) can work together
-- **MCP Server Integration** - Use Wayfind tools with other AI agents like Claude Code, Cursor, OpenCode
-- **Approval Workflows** - Bots prepare transactions for your review and approval before execution
+- **MCP Server Integration** - Works with proactive AI agents like Meta Muse, OpenAI Dots, Claude Duet, and desktop apps like Cursor, Cherry Studio
+- **Real-time Market Data** - Indexed 500+ tokenized stocks with live prices, liquidity, and issuer data
 - **Cross-Chain Support** - Operate across Solana, Ethereum, Arc, Mezo, Bitcoin, and more
+
+## Important Notes
+
+**Wallet Backup:** It's been reported that Grok Bot's bot computer can occasionally reset data. When using Wayfind templates, make sure to back up your `BACKUP_AND_REMOVE.txt` file so you can restore your wallet if needed.
 
 ## Get Started
 
 1. **[Browse Templates](https://wayfind.click/)** - Choose the template that fits your needs
-2. **[Set Up Grok Bot](getting-started/grok-bot-setup.md)** - Import the template and configure your bot
+2. **[Quick Start](getting-started/quick-start.md)** - Import the template and configure your bot
 3. **[Put Your Bot to Work](introduction/how-it-works.md)** - Start automating with your AI agent
