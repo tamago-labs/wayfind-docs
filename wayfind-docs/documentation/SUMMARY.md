@@ -7,8 +7,6 @@
 
 * [Getting Started](getting-started/README.md)
   * [Quick Start](getting-started/quick-start.md)
-  * [Setting Up Grok Bot](getting-started/grok-bot-setup.md)
-  * [Using with Other AI Agents (MCP)](getting-started/mcp-setup.md)
   * [API Keys](getting-started/api-keys.md)
 
 * [Templates](templates/README.md)

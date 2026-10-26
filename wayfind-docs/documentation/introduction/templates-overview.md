@@ -40,4 +40,4 @@ All templates include:
 - **Agent Skills** - Pre-defined capabilities and instructions for the bot's role
 - **MCP Server** - Tools to interact with blockchains, protocols, and APIs
 - **Memory & Context** - Persistent memory for your bot to learn and coordinate
-- **Workflow Instructions** - Built-in patterns for approvals, automation, and multi-agent tasks
+- **Workflow Instructions** - Built-in patterns for automation and multi-agent tasks
