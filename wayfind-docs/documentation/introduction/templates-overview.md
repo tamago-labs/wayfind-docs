@@ -1,6 +1,6 @@
 # Templates Overview
 
-Wayfind provides three purpose-built templates for Grok Bot, each equipped with specialized agent skills, MCP tools, and workflows for specific onchain use cases.
+Wayfind provides purpose-built templates for Grok Bot, each equipped with specialized agent skills, MCP tools, and workflows for specific onchain use cases.
 
 ## Available Templates
 
