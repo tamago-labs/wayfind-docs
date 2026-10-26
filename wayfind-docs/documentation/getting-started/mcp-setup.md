@@ -16,8 +16,8 @@ Each template has its own MCP server with specialized tools for that use case. Y
 
 ## Setup
 
-### 1. Get API Key
-Get your API key from [wayfind.click](https://wayfind.click/) dashboard.
+### 1. Get API Key (Optional)
+For some templates and features, you may need an API key from [wayfind.click](https://wayfind.click/) dashboard. API key is optional when accessing Solana Tokenized Stocks data.
 
 ### 2. Configure Your Agent
 Add the MCP server to your agent's configuration. Example config:
@@ -55,7 +55,7 @@ Once configured, your agent can use Wayfind tools to:
 
 ## Notes
 
-- API key is optional when accessing Solana Tokenized Stocks data
+- API key is optional when accessing tokenized stocks data
 - API key may be required for other MCP tools depending on the template
 - For Grok Bot, use the [one-click template import](grok-bot-setup.md) instead - it's easier
 - Each MCP server is tailored to its template's capabilities
