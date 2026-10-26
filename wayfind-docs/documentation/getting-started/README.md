@@ -9,7 +9,6 @@ Get up and running with Wayfind in minutes. Choose your path based on how you wa
 | **Grok Bot (Recommended)** | [Setting Up Grok Bot](grok-bot-setup.md) | ~1-3 minutes |
 | **Meta Muse, OpenAI Dots, Claude Duet** | Import Agent Skills from the template's skills repo (see template setup) | ~5-10 minutes |
 | **Cursor, Cherry Studio, etc. (Desktop Apps)** | [Using with Other AI Agents (MCP)](mcp-setup.md) | ~10-15 minutes |
-| **Quick Preview** | [Quick Start](quick-start.md) | ~2 minutes |
 
 ## Prerequisites
 
