@@ -9,22 +9,6 @@ Get and manage your Wayfind API key from the dashboard.
 3. Once connected, your API key will be ready to copy from the dashboard
 4. Use it in your MCP configuration or provide it to your bot when prompted
 
-## Using Your API Key
-
-For MCP servers, add it to your configuration:
-
-```json
-{
-  "mcpServers": {
-    "wayfind-solana": {
-      "command": "npx",
-      "args": ["-y", "@tamago-labs/wayfind-mcp"],
-      "env": { "WAYFIND_API_KEY": "your_key_here" }
-    }
-  }
-}
-```
-
 ## AI Credits
 
 You can request AI credits (free for now) from the dashboard to access AI-powered features like portfolio risk assessment.

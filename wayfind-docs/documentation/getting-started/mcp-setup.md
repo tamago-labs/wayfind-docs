@@ -17,7 +17,7 @@ Each template has its own MCP server with specialized tools for that use case. Y
 ## Setup
 
 ### 1. Get API Key (Optional)
-For some templates and features, you may need an API key from [wayfind.click](https://wayfind.click/) dashboard. API key is optional when accessing Solana Tokenized Stocks data.
+For some templates and features, you may need an API key from [wayfind.click](https://wayfind.click/) dashboard. API key is optional.
 
 ### 2. Configure Your Agent
 Add the MCP server to your agent's configuration. Example config:
