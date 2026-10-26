@@ -27,7 +27,7 @@ Your bots run 24/7 on their dedicated computers. They can monitor data, prepare 
 
 ## Multi-Agent Coordination
 
-One of Wayfind's key strengths is enabling teams of specialized bots to work together:
+Grok Bot and proactive AI agents can coordinate as teams of specialized bots:
 
 | Role | Typical Responsibilities | Example Use Cases |
 |------|---------------------------|-------------------|
