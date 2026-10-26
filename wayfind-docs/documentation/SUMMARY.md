@@ -18,7 +18,7 @@
     * [AI Risk Review](templates/solana-tokenized-stocks/ai-risk-review.md)
     * [Trading with OKX DEX](templates/solana-tokenized-stocks/trading.md)
     * [Explore & Token Details](templates/solana-tokenized-stocks/explore.md)
-  * [Circle USDC Payments (Arc)](templates/circle-usdc-payments/README.md)
+  * [Circle USDC Payments](templates/circle-usdc-payments/README.md)
     * [Overview](templates/circle-usdc-payments/overview.md)
     * [Unified Balance](templates/circle-usdc-payments/unified-balance.md)
     * [Swaps & Transfers](templates/circle-usdc-payments/swaps-transfers.md)

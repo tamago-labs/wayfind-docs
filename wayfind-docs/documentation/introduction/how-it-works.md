@@ -37,13 +37,15 @@ Grok Bot and proactive AI agents can coordinate as teams of specialized bots:
 | **Marketing** | Content creation, publishing | Turn research into content, publish updates |
 | **Investment Analyst** | Risk analysis, portfolio management | Evaluate tokenized stocks, assess risk, suggest rebalancing |
 
-## Approval Workflows
+## Workflows
 
-For security, bots don't execute all actions blindly. They follow approval patterns:
+Bots can be configured to follow approval workflows:
 - **Prepare First** - Bots gather data, calculate amounts, and prepare transaction details
-- **Request Approval** - They summarize the action and ask for your confirmation
+- **Request Approval** - They can summarize the action and ask for your confirmation
 - **Execute on Approval** - Once approved, they sign and send the transaction from the bot's wallet
 - **Report Results** - They return transaction hashes and confirm completion
+
+Depending on how you configure your agent, behavior can be adjusted to fit your needs.
 
 ## Next Steps
 

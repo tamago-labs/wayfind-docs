@@ -7,7 +7,7 @@ Get started with Wayfind in just a few minutes.
 1. **Browse Templates** - Go to [wayfind.click](https://wayfind.click/) and select a template
 2. **Import** - Click "Import to Grok Bot" to add the template to your bot
 3. **Setup** - Open the template in Grok Bot and let it guide you through wallet creation
-4. **Go** - Ask your bot to help with its use case (e.g., "Show me my tokenized stock portfolio")
+4. **Go** - Ask your bot to help with its use case (e.g., "List all stock tokens relating to TSLA")
 
 ## For Other AI Agents
 
