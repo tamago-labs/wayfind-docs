@@ -55,6 +55,7 @@ Once configured, your agent can use Wayfind tools to:
 
 ## Notes
 
-- API key is required for most MCP tools
+- API key is optional when accessing Solana Tokenized Stocks data
+- API key may be required for other MCP tools depending on the template
 - For Grok Bot, use the [one-click template import](grok-bot-setup.md) instead - it's easier
 - Each MCP server is tailored to its template's capabilities
