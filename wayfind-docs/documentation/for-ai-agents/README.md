@@ -7,10 +7,9 @@ Wayfind provides infrastructure for AI agents beyond Grok Bot. Use agent skills,
 | Agent | Integration Method | Status |
 |-------|-------------------|--------|
 | **[Grok Bot](https://x.ai/grok-bot)** | One-click template import with built-in skills | Primary (Recommended) |
-| **[Meta Muse](https://x.ai/)** | MCP Server / Agent Skills | Supported |
-| **[OpenAI Dots](https://openai.com/)** | MCP Server / Agent Skills | Supported |
-| **[Claude Duet](https://www.anthropic.com/)** | MCP Server / Agent Skills | Supported |
+| **[Claude Code](https://docs.anthropic.com/claude/docs/claude-code)** | MCP Server | Supported |
 | **[Cursor](https://www.cursor.com/)** | MCP Server | Supported |
+| **[OpenCode](https://github.com/sst/opencode)** | MCP Server | Supported |
 | **[Cherry Studio](https://github.com/AIDC-AI/CherryStudio)** | MCP Server | Supported |
 
 ## Core Components
@@ -30,7 +29,7 @@ Enable teams of specialized bots to work together - CFO, HR, Research, Marketing
 ## Getting Started
 
 1. **For Grok Bot:** [Import a template](../getting-started/grok-bot-setup.md) - easiest path
-2. **For other agents:** [Set up MCP](mcp-servers.md) - configure for your agent
+2. **For other agents:** [Set up MCP](../getting-started/mcp-setup.md) - configure for your agent
 
 ## Documentation
 
