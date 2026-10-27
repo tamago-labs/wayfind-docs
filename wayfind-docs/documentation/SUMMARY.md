@@ -31,10 +31,6 @@
     * [Payments with MUSD](templates/mezo-bitcoin-finance/payments.md)
 
 * [For AI Agents](for-ai-agents/README.md)
-  * [Agent Skills](for-ai-agents/agent-skills.md)
-  * [MCP Servers](for-ai-agents/mcp-servers.md)
-  * [Agentic Wallet](for-ai-agents/agentic-wallet.md)
-  * [Multi-Agent Coordination](for-ai-agents/multi-agent-coordination.md)
 
 * [Platform](platform/README.md)
   * [Wayfind Dashboard](platform/dashboard.md)
