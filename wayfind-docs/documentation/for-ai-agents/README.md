@@ -37,4 +37,3 @@ Enable teams of specialized bots to work together - CFO, HR, Research, Marketing
 - [MCP Servers](mcp-servers.md) - Available servers and configuration
 - [Agentic Wallet](agentic-wallet.md) - Wallet management
 - [Multi-Agent Coordination](multi-agent-coordination.md) - Building bot teams
-- [Available Tools by Template](tools-by-template.md) - Tool reference

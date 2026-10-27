@@ -35,7 +35,6 @@
   * [MCP Servers](for-ai-agents/mcp-servers.md)
   * [Agentic Wallet](for-ai-agents/agentic-wallet.md)
   * [Multi-Agent Coordination](for-ai-agents/multi-agent-coordination.md)
-  * [Available Tools by Template](for-ai-agents/tools-by-template.md)
 
 * [Platform](platform/README.md)
   * [Wayfind Dashboard](platform/dashboard.md)
