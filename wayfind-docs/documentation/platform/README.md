@@ -17,9 +17,3 @@ Wayfind uses a credit system to power AI features like risk analysis and multi-a
 
 ### Architecture
 Built on AWS Amplify Gen 2 with serverless functions, DynamoDB, and scheduled data ingestion. Integrates with OpenAI Agents SDK for multi-agent capabilities.
-
-## Documentation
-
-- [Wayfind Dashboard](dashboard.md) - Using the web dashboard
-- [AI Credits](ai-credits.md) - Credits system explained
-- [Architecture Overview](architecture.md) - Technical architecture

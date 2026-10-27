@@ -33,9 +33,6 @@
 * [For AI Agents](for-ai-agents/README.md)
 
 * [Platform](platform/README.md)
-  * [Wayfind Dashboard](platform/dashboard.md)
-  * [AI Credits](platform/ai-credits.md)
-  * [Architecture Overview](platform/architecture.md)
 
 * [Resources](resources/README.md)
   * [Links & Demos](resources/links.md)
